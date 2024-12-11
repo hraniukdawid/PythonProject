@@ -1,3 +1,5 @@
+# Projekt na zaliczenie
+ 
 Co to za aplikacja?
  
 ## Pierwsze uruchomienie
