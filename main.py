@@ -1,1 +1,1 @@
-# tu będzie flask
+print("Hello world")
